@@ -1,128 +1,122 @@
-{
-    "faturamentos": [
-      {
-        "dia": 1,
-        "faturamento": 203
-      },
-      {
-        "dia": 2,
-        "faturamento": 784
-      },
-      {
-        "dia": 3,
-        "faturamento": 154
-      },
-      {
-        "dia": 4,
-        "faturamento": 285
-      },
-      {
-        "dia": 5,
-        "faturamento": 637
-      },
-      {
-        "dia": 6,
-        "faturamento": 481
-      },
-      {
-        "dia": 7,
-        "faturamento": 961
-      },
-      {
-        "dia": 8,
-        "faturamento": 910
-      },
-      {
-        "dia": 9,
-        "faturamento": 939
-      },
-      {
-        "dia": 10,
-        "faturamento": 747
-      },
-      {
-        "dia": 11,
-        "faturamento": 379
-      },
-      {
-        "dia": 12,
-        "faturamento": 490
-      },
-      {
-        "dia": 13,
-        "faturamento": 236
-      },
-      {
-        "dia": 14,
-        "faturamento": 721
-      },
-      {
-        "dia": 15,
-        "faturamento": 41
-      },
-      {
-        "dia": 16,
-        "faturamento": 754
-      },
-      {
-        "dia": 17,
-        "faturamento": 255
-      },
-      {
-        "dia": 18,
-        "faturamento": 735
-      },
-      {
-        "dia": 19,
-        "faturamento": 191
-      },
-      {
-        "dia": 20,
-        "faturamento": 784
-      },
-      {
-        "dia": 21,
-        "faturamento": 508
-      },
-      {
-        "dia": 22,
-        "faturamento": 136
-      },
-      {
-        "dia": 23,
-        "faturamento": 629
-      },
-      {
-        "dia": 24,
-        "faturamento": 647
-      },
-      {
-        "dia": 25,
-        "faturamento": 565
-      },
-      {
-        "dia": 26,
-        "faturamento": 409
-      },
-      {
-        "dia": 27,
-        "faturamento": 329
-      },
-      {
-        "dia": 28,
-        "faturamento": 165
-      },
-      {
-        "dia": 29,
-        "faturamento": 151
-      },
-      {
-        "dia": 30,
-        "faturamento": 417
-      },
-      {
-        "dia": 31,
-        "faturamento": 536
-      }
-    ]
-  }
+[
+	{
+		"dia": 1,
+		"valor": 22174.1664
+	},
+	{
+		"dia": 2,
+		"valor": 24537.6698
+	},
+	{
+		"dia": 3,
+		"valor": 26139.6134
+	},
+	{
+		"dia": 4,
+		"valor": 0.0
+	},
+	{
+		"dia": 5,
+		"valor": 0.0
+	},
+	{
+		"dia": 6,
+		"valor": 26742.6612
+	},
+	{
+		"dia": 7,
+		"valor": 0.0
+	},
+	{
+		"dia": 8,
+		"valor": 42889.2258
+	},
+	{
+		"dia": 9,
+		"valor": 46251.174
+	},
+	{
+		"dia": 10,
+		"valor": 11191.4722
+	},
+	{
+		"dia": 11,
+		"valor": 0.0
+	},
+	{
+		"dia": 12,
+		"valor": 0.0
+	},
+	{
+		"dia": 13,
+		"valor": 3847.4823
+	},
+	{
+		"dia": 14,
+		"valor": 373.7838
+	},
+	{
+		"dia": 15,
+		"valor": 2659.7563
+	},
+	{
+		"dia": 16,
+		"valor": 48924.2448
+	},
+	{
+		"dia": 17,
+		"valor": 18419.2614
+	},
+	{
+		"dia": 18,
+		"valor": 0.0
+	},
+	{
+		"dia": 19,
+		"valor": 0.0
+	},
+	{
+		"dia": 20,
+		"valor": 35240.1826
+	},
+	{
+		"dia": 21,
+		"valor": 43829.1667
+	},
+	{
+		"dia": 22,
+		"valor": 18235.6852
+	},
+	{
+		"dia": 23,
+		"valor": 4355.0662
+	},
+	{
+		"dia": 24,
+		"valor": 13327.1025
+	},
+	{
+		"dia": 25,
+		"valor": 0.0
+	},
+	{
+		"dia": 26,
+		"valor": 0.0
+	},
+	{
+		"dia": 27,
+		"valor": 25681.8318
+	},
+	{
+		"dia": 28,
+		"valor": 1718.1221
+	},
+	{
+		"dia": 29,
+		"valor": 13220.495
+	},
+	{
+		"dia": 30,
+		"valor": 8414.61
+	}
+]
